@@ -18,4 +18,10 @@ I'm a Computer Science student passionate about building cool things with code a
 
 ### 🛠️ Tech Stack
 
+- **Languages**: `Java` · `Python` · `SQL` · `HTML` · `CSS`
+- **Tools**: `Git` · `GitHub` · `VS Code` · `Linux (basic)`
+- **Learning**: `Portia AI` · `Data Structures & Algorithms` · `Web Development`
+- **Exploring Next**: `React` · `Open Source` · `Machine Learning`
+
+
 
